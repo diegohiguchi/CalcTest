@@ -1,0 +1,14 @@
+C:\Labs\MinhaAPICore\Testes\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Labs\MinhaAPICore\Testes\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Labs\MinhaAPICore\Testes\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Labs\MinhaAPICore\Testes\bin\Debug\netcoreapp2.2\Testes.deps.json
+C:\Labs\MinhaAPICore\Testes\bin\Debug\netcoreapp2.2\Testes.runtimeconfig.json
+C:\Labs\MinhaAPICore\Testes\bin\Debug\netcoreapp2.2\Testes.runtimeconfig.dev.json
+C:\Labs\MinhaAPICore\Testes\bin\Debug\netcoreapp2.2\Testes.dll
+C:\Labs\MinhaAPICore\Testes\bin\Debug\netcoreapp2.2\Testes.pdb
+C:\Labs\MinhaAPICore\Testes\obj\Debug\netcoreapp2.2\Testes.csprojAssemblyReference.cache
+C:\Labs\MinhaAPICore\Testes\obj\Debug\netcoreapp2.2\Testes.csproj.CoreCompileInputs.cache
+C:\Labs\MinhaAPICore\Testes\obj\Debug\netcoreapp2.2\Testes.AssemblyInfoInputs.cache
+C:\Labs\MinhaAPICore\Testes\obj\Debug\netcoreapp2.2\Testes.AssemblyInfo.cs
+C:\Labs\MinhaAPICore\Testes\obj\Debug\netcoreapp2.2\Testes.dll
+C:\Labs\MinhaAPICore\Testes\obj\Debug\netcoreapp2.2\Testes.pdb

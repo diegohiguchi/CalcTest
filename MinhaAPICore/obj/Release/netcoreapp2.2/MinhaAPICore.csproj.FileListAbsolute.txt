@@ -1,0 +1,17 @@
+C:\Labs\MinhaAPICore\MinhaAPICore\bin\Release\netcoreapp2.2\MinhaAPICore.deps.json
+C:\Labs\MinhaAPICore\MinhaAPICore\bin\Release\netcoreapp2.2\MinhaAPICore.runtimeconfig.json
+C:\Labs\MinhaAPICore\MinhaAPICore\bin\Release\netcoreapp2.2\MinhaAPICore.runtimeconfig.dev.json
+C:\Labs\MinhaAPICore\MinhaAPICore\bin\Release\netcoreapp2.2\MinhaAPICore.dll
+C:\Labs\MinhaAPICore\MinhaAPICore\bin\Release\netcoreapp2.2\MinhaAPICore.pdb
+C:\Labs\MinhaAPICore\MinhaAPICore\obj\Release\netcoreapp2.2\MinhaAPICore.csprojAssemblyReference.cache
+C:\Labs\MinhaAPICore\MinhaAPICore\obj\Release\netcoreapp2.2\MinhaAPICore.csproj.CoreCompileInputs.cache
+C:\Labs\MinhaAPICore\MinhaAPICore\obj\Release\netcoreapp2.2\MinhaAPICore.RazorAssemblyInfo.cache
+C:\Labs\MinhaAPICore\MinhaAPICore\obj\Release\netcoreapp2.2\MinhaAPICore.RazorAssemblyInfo.cs
+C:\Labs\MinhaAPICore\MinhaAPICore\obj\Release\netcoreapp2.2\MinhaAPICore.AssemblyInfoInputs.cache
+C:\Labs\MinhaAPICore\MinhaAPICore\obj\Release\netcoreapp2.2\MinhaAPICore.AssemblyInfo.cs
+C:\Labs\MinhaAPICore\MinhaAPICore\obj\Release\netcoreapp2.2\MinhaAPICore.RazorTargetAssemblyInfo.cache
+C:\Labs\MinhaAPICore\MinhaAPICore\obj\Release\netcoreapp2.2\MinhaAPICore.dll
+C:\Labs\MinhaAPICore\MinhaAPICore\obj\Release\netcoreapp2.2\MinhaAPICore.pdb
+C:\Labs\MinhaAPICore\MinhaAPICore\bin\Release\netcoreapp2.2\Business.dll
+C:\Labs\MinhaAPICore\MinhaAPICore\bin\Release\netcoreapp2.2\Business.pdb
+C:\Labs\MinhaAPICore\MinhaAPICore\obj\Release\netcoreapp2.2\MinhaAPICore.csproj.CopyComplete
